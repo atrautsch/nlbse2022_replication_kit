@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Trautsch"
+  given-names: "Alexander"
+- family-names: "Herbold"
+  given-names: "Steffen"
+title: "Predicting Issue Types with seBERT"
+version: 2.0.4
+date-released: 2022-02-17
+url: "https://github.com/atrautsch/nlbse2022_replication_kit"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Trautsch"
+    given-names: "Alexander"
+  - family-names: "Herbold"
+    given-names: "Steffen"
+  booktitle: "Proceedings of the  1st Intl. Workshop on Natural Language-based Software Engineering (NLBSE'22)"
+  title: "Predicting Issue Types with seBERT"
+  year: 2022

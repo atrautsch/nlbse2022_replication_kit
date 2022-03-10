@@ -1,4 +1,4 @@
-# seBERT for issue type classification
+# Predicting Issue Types with seBERT
 This replication kit shows how to fine-tune and evaluate the pre-trained seBERT model for the task of issue type classification.
 Be aware that the fine-tuning may not run on GPUs lower than Nvida RTX5000.
 
