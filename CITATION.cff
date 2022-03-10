@@ -16,6 +16,6 @@ preferred-citation:
     given-names: "Alexander"
   - family-names: "Herbold"
     given-names: "Steffen"
-  booktitle: "Proceedings of the  1st Intl. Workshop on Natural Language-based Software Engineering (NLBSE'22)"
+  journal: "Proceedings of the  1st Intl. Workshop on Natural Language-based Software Engineering (NLBSE'22)"
   title: "Predicting Issue Types with seBERT"
   year: 2022
