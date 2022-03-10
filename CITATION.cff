@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite the conference paper."
 authors:
 - family-names: "Trautsch"
   given-names: "Alexander"
@@ -18,6 +18,6 @@ preferred-citation:
     given-names: "Steffen"
   title: "Predicting Issue Types with seBERT"
   year: 2022
-  collection-title: "Proceedings of the  1st Intl. Workshop on Natural Language-based Software Engineering (NLBSE'22)"
+  collection-title: "Proceedings of the 1st Intl. Workshop on Natural Language-based Software Engineering (NLBSE'22)"
   conference:
     name: "Workshop on Natural Language-based Software Engineering"
