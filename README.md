@@ -28,7 +28,7 @@ tar -xzf seBERT_pre_trained.tar.gz
 ```
 
 ## Loading the fine-tuned model
-We provide the fine-tuned version of the model that we used [here](https://smartshark2.informatik.uni-goettingenm.de/sebert/nlbse.tar.gz).
+We provide the fine-tuned version of the model that we used [here](https://smartshark2.informatik.uni-goettingen.de/sebert/nlbse.tar.gz).
 
 ```bash
 cd models
